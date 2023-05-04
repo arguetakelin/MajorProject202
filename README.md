@@ -1,4 +1,6 @@
-# MajorProject202
+# MajorProject202 - Weight Tracker
+
+Project Description:
 
 •	Who are the users of the software? 
   People who wants to have a healthy life and are looking for a good workout routine. 
